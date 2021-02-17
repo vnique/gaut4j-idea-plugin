@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.vnique.gaut4jideaplugin.services
 
+import com.github.vnique.gaut4jideaplugin.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
